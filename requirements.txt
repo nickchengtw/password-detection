@@ -1,0 +1,12 @@
+tensorflow
+keras
+scikit-learn
+numpy
+pandas
+requests
+GitPython == 3.0.6
+truffleHogRegexes == 0.0.7
+requests_file
+requests 
+jsbeautifier
+lxml
