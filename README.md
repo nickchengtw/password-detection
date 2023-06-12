@@ -21,7 +21,7 @@ Passwords were selected from: https://github.com/danielmiessler/SecLists/blob/ma
 | Hello                    | False      | False      |
 | at least 8 character long| False      | False      |
 | SELECT * FROM table_name;| False      | False      |
-| </html>                  | False      | False      |
+| \</html\>                  | False      | False      |
 | col_name                 | False      | False      |
 | field=                   | False      | False      |
 | 147258                   | True       | False      |
